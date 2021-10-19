@@ -12,5 +12,5 @@ And it is thanks to this broad academic curriculum that I studied programming fo
 
 Thank you for your visit
 - 📫 How to reach me:
-Email: gerardo.kohatus@gmail.com
+Email: gerardo.kohatus@gmail.com , and connect with me on [LinkedIn!](https://www.linkedin.com/in/gerardo-kohatus-full-stack/)
 
